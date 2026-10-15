@@ -246,28 +246,4 @@ The application is designed to process uploaded datasets within the running appl
 
 Do not upload confidential or personally identifiable information to an untrusted deployment.
 
-## Contributing
-
-Contributions and suggestions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Implement your changes and add appropriate tests.
-4. Run the test suite.
-5. Submit a pull request describing the changes.
-
-## License
-
-Choose a license before publishing the repository publicly. For example, the MIT License permits reuse under its stated terms. Add a `LICENSE` file if you decide to use it.
-
-## Author
-
-**Your Name**
-
-Computer Science and Engineering
-
-GitHub: `https://github.com/YOUR_USERNAME`
-
----
-
 *Built with Python, Streamlit, Pandas, and Scikit-learn.*
